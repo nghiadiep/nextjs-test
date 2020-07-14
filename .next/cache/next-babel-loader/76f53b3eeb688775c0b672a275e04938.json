@@ -1,0 +1,1 @@
+{"ast":null,"code":"var statuses = {\n  todo: 'todo',\n  inprogress: 'in-progress',\n  done: 'done',\n  deleted: 'deleted',\n  canceled: 'canceled'\n};\nexport default statuses;","map":null,"metadata":{},"sourceType":"module"}
